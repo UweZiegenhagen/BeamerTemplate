@@ -1,2 +1,3 @@
 # BeamerTemplate
-My favorite Beamer Template
+
+My (currently) most favorite Beamer Template based on the metropolis theme and the IBM Plex sans font.
